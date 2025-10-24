@@ -272,6 +272,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 - [Streamlit](https://streamlit.io/) por el increíble framework
 - [Streamlit Ace](https://github.com/okld/streamlit-ace) por el editor de código
+- [Gemini 2.5 Flash](https://gemini.google.com) por la ayuda inestimable.
 - La comunidad de Python por las librerías y herramientas
 - Todos los contribuidores y usuarios del proyecto
 
@@ -291,13 +292,13 @@ Si encuentras algún problema o tienes alguna pregunta:
 
 **¡Aprende, experimenta y codifica con Python!**
 
-*Última actualización: Enero 2025*
+*Última actualización: Octubre 2025*
 
 </div>
 
 ---
 
 <p align="center">
-  <i>Hecho con ❤️ y Python</i>
+  <i>Hecho con Python, ☕ y miles_de_errores</i>
 </p>
 ```
