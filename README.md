@@ -6,6 +6,11 @@
 
 Una aplicación web interactiva construida con Streamlit que permite escribir, ejecutar y probar código Python directamente desde tu navegador. Perfecto para aprender Python, hacer pruebas rápidas o enseñar programación.
 
+<div align="center">
+  <img src="banner.png" alt="Demo" width="full">  
+  <p>Detalle de la Interfaz</p>
+</div>
+
 ## ✨ Características Principales
 
 ### 🚀 Ejecución en Tiempo Real
